@@ -45,8 +45,7 @@
 
 &nbsp;
 
-+  ##### SETUP Data Pipeline in Airflow 
-+  ![Workflow Diag](/images/dag.png)
++  ##### SETUP Data Pipeline in Airflow ![Workflow Diag](/images/dag.png)
     ######  **Setup Airflow**
     1. Setup Airflow with variables and connections
         - Created a new variable `redshift_iam_role` with AWS Role ARN under Airflow > Admin > Variables
